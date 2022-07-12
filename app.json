@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Ding-Dong-Repartidor",
+    "slug": "Ding-Dong-Repartidor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Ding-Dong-Logo-Dark.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/Ding-Dong-Logo-Light.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
